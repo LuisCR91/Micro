@@ -1,4 +1,4 @@
-package com.ucreativa.calculadoramonolitica;
+package com.ucreativa.calculadoramonolitico;
 
 import java.io.IOException;
 import java.io.OutputStream;
